@@ -1,0 +1,135 @@
+{
+  "sourceSpec": "/Users/adrianrmz/Developer/Freelance/Proposals/felfer03/docs/superpowers/specs/2026-04-25-felfer-seo-website-design.md",
+  "recommendedPublicBase": "/images/felfer",
+  "brand": {
+    "logo": {
+      "path": "brand/felfer-logo.png",
+      "alt": "Constructora FELFER"
+    }
+  },
+  "clients": [
+    {
+      "path": "clients/sict.png",
+      "alt": "Secretaria de Infraestructura, Comunicaciones y Transportes"
+    },
+    {
+      "path": "clients/capufe.jpg",
+      "alt": "CAPUFE"
+    },
+    {
+      "path": "clients/sedena.png",
+      "alt": "SEDENA"
+    },
+    {
+      "path": "clients/cei.png",
+      "alt": "CEI"
+    },
+    {
+      "path": "clients/cliente-institucional.png",
+      "alt": "Cliente institucional de Constructora FELFER"
+    }
+  ],
+  "home": {
+    "hero": {
+      "path": "home/hero-infraestructura-taludes.jpeg",
+      "alt": "Carretera en zona montanosa con trabajos de estabilizacion de taludes"
+    },
+    "proof": {
+      "path": "home/proof-taludes-carretera.jpeg",
+      "alt": "Talud carretero estabilizado con malla y anclajes"
+    }
+  },
+  "services": {
+    "estabilizacion-de-taludes": {
+      "route": "/servicios/estabilizacion-de-taludes",
+      "hero": {
+        "path": "services/estabilizacion-de-taludes/hero-estabilizacion-taludes.jpeg",
+        "alt": "Trabajos de estabilizacion de taludes en infraestructura carretera"
+      },
+      "supporting": [
+        {
+          "path": "services/estabilizacion-de-taludes/detail-talud-carretero.jpeg",
+          "alt": "Talud carretero con sistemas de estabilizacion y proteccion superficial"
+        },
+        {
+          "path": "services/estabilizacion-de-taludes/detail-malla-anclajes.jpeg",
+          "alt": "Malla y anclajes instalados en talud carretero"
+        }
+      ]
+    },
+    "carreteras-conservacion-vial": {
+      "route": "/servicios/carreteras-conservacion-vial",
+      "hero": {
+        "path": "services/carreteras-conservacion-vial/hero-carreteras-conservacion-vial.jpg",
+        "alt": "Frente de construccion y conservacion vial en carretera"
+      },
+      "supporting": [
+        {
+          "path": "services/carreteras-conservacion-vial/detail-pavimentacion.jpeg",
+          "alt": "Trabajos de pavimentacion y conservacion en carretera"
+        },
+        {
+          "path": "services/carreteras-conservacion-vial/detail-frente-carretero.jpeg",
+          "alt": "Frente carretero con maquinaria y control operativo"
+        }
+      ]
+    },
+    "urbanizacion": {
+      "route": "/servicios/urbanizacion",
+      "hero": {
+        "path": "services/urbanizacion/hero-urbanizacion.jpeg",
+        "alt": "Obra de urbanizacion con pavimento de concreto hidraulico"
+      }
+    },
+    "edificacion": {
+      "route": "/servicios/edificacion",
+      "hero": {
+        "path": "services/edificacion/hero-edificacion.jpg",
+        "alt": "Proyecto de edificacion y obra civil ejecutado por Constructora FELFER"
+      }
+    },
+    "obras-de-drenaje": {
+      "route": "/servicios/obras-de-drenaje",
+      "hero": {
+        "path": "services/obras-de-drenaje/hero-obras-drenaje.jpg",
+        "alt": "Obras de drenaje para infraestructura vial"
+      }
+    },
+    "terracerias": {
+      "route": "/servicios/terracerias",
+      "hero": {
+        "path": "services/terracerias/hero-terracerias.jpg",
+        "alt": "Terracerias y movimiento de tierras para habilitacion de obra"
+      }
+    },
+    "estructuras": {
+      "route": "/servicios/estructuras",
+      "hero": {
+        "path": "services/estructuras/hero-estructuras-contencion.jpeg",
+        "alt": "Estructuras y contencion para obra civil e infraestructura"
+      }
+    }
+  },
+  "projects": [
+    {
+      "path": "projects/autopista-mitla-oaxaca.jpg",
+      "alt": "Proyecto carretero Mitla Oaxaca con trabajos de taludes",
+      "suggestedName": "Autopista Mitla - Oaxaca"
+    },
+    {
+      "path": "projects/autopista-durango-mazatlan.jpg",
+      "alt": "Proyecto carretero Durango Mazatlan con trabajos de estabilizacion",
+      "suggestedName": "Autopista Durango - Mazatlan"
+    },
+    {
+      "path": "projects/autopista-atizapan-atlacomulco.jpg",
+      "alt": "Proyecto carretero Atizapan Atlacomulco",
+      "suggestedName": "Autopista Atizapan - Atlacomulco"
+    },
+    {
+      "path": "projects/corredor-costero-nayarit.jpg",
+      "alt": "Proyecto de infraestructura en corredor costero Nayarit",
+      "suggestedName": "Corredor Costero Nayarit"
+    }
+  ]
+}
