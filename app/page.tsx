@@ -61,6 +61,8 @@ export default function HomePage() {
         </div>
       </section>
 
+      <ClientLogos />
+
       <section className="section">
         <div className="container">
           <SectionHeader
@@ -76,8 +78,6 @@ export default function HomePage() {
           </div>
         </div>
       </section>
-
-      <ClientLogos />
 
       <section className="section section-white">
         <div className="container">

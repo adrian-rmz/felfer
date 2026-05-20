@@ -1,4 +1,3 @@
-import Link from "next/link";
 import { Service } from "@/data/site";
 import { ImageFrame } from "@/components/ImageFrame";
 
@@ -41,9 +40,9 @@ export function ServiceCard({
         <ImageFrame src={service.image} alt={service.alt} />
         <h3>{service.title}</h3>
         <p>{service.description}</p>
-        <Link className="text-link" href={`/servicios/${service.slug}`}>
+        <a className="text-link" href={`/servicios/${service.slug}`}>
           Ver servicio →
-        </Link>
+        </a>
       </article>
     );
   }
@@ -54,9 +53,9 @@ export function ServiceCard({
         <ServiceIcon slug={service.slug} />
         <h3>{service.title}</h3>
         <p>{service.description}</p>
-        <Link className="text-link" href={`/servicios/${service.slug}`}>
+        <a className="text-link" href={`/servicios/${service.slug}`}>
           Ver servicio →
-        </Link>
+        </a>
       </div>
     </article>
   );

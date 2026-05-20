@@ -1,5 +1,4 @@
 import { notFound } from "next/navigation";
-import { FAQ } from "@/components/FAQ";
 import { ImageFrame } from "@/components/ImageFrame";
 import { SectionHeader } from "@/components/SectionHeader";
 import { ServiceGallery } from "@/components/ServiceGallery";
@@ -50,26 +49,15 @@ export default async function ServicePage({ params }: ServiceRouteProps) {
   return (
     <main className="page-shell">
       <JsonLd
-        data={[
-          {
-            "@context": "https://schema.org",
-            "@type": "Service",
-            name: service.title,
-            description: service.metadata.description,
-            provider: { "@type": "ConstructionBusiness", name: "Constructora FELFER" },
-            areaServed: "México",
-            url: `${site.url}/servicios/${service.slug}`,
-          },
-          {
-            "@context": "https://schema.org",
-            "@type": "FAQPage",
-            mainEntity: service.faq.map((item) => ({
-              "@type": "Question",
-              name: item.question,
-              acceptedAnswer: { "@type": "Answer", text: item.answer },
-            })),
-          },
-        ]}
+        data={{
+          "@context": "https://schema.org",
+          "@type": "Service",
+          name: service.title,
+          description: service.metadata.description,
+          provider: { "@type": "ConstructionBusiness", name: "Constructora FELFER" },
+          areaServed: "México",
+          url: `${site.url}/servicios/${service.slug}`,
+        }}
       />
       <section className="editorial-hero">
         <div className="container editorial-grid">
@@ -91,16 +79,6 @@ export default async function ServicePage({ params }: ServiceRouteProps) {
             text={`Una muestra visual de trabajos, procesos y soluciones aplicadas en ${service.title.toLowerCase()}.`}
           />
           <ServiceGallery images={gallery} title={service.title} primaryAlt={service.alt} />
-        </div>
-      </section>
-
-      <section className="section section-white">
-        <div className="container">
-          <SectionHeader
-            title="Preguntas frecuentes"
-            centered
-          />
-          <FAQ items={service.faq} />
         </div>
       </section>
 
