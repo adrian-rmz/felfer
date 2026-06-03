@@ -42,13 +42,13 @@ export function Footer() {
           <h3>Contacto</h3>
           <ul className="list">
             <li>
-              {site.location}, México
+              {site.location}
             </li>
             <li>
               <a href={`mailto:${site.email}`}>{site.email}</a>
             </li>
             <li>
-              <a href={`tel:${site.phone}`}>{site.phone}</a>
+              <a href={`tel:${site.phoneHref}`}>{site.phone}</a>
             </li>
           </ul>
         </div>

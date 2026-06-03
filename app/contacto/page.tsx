@@ -90,7 +90,7 @@ export default function ContactPage() {
                 <div>
                   <p className="contact-label">Teléfono</p>
                   <p className="contact-value">
-                    <a href={`tel:${site.phone}`}>{site.phone}</a>
+                    <a href={`tel:${site.phoneHref}`}>{site.phone}</a>
                   </p>
                 </div>
               </div>
@@ -116,7 +116,7 @@ export default function ContactPage() {
                 <span className="contact-icon">U</span>
                 <div>
                   <p className="contact-label">Ubicación</p>
-                  <p className="contact-value">{site.location}, México</p>
+                  <p className="contact-value">{site.location}</p>
                 </div>
               </div>
             </div>

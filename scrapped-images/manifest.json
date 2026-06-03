@@ -1,0 +1,898 @@
+{
+  "source": "https://felfer.com.mx/",
+  "pages": [
+    "https://felfer.com.mx/",
+    "https://felfer.com.mx/estructuras",
+    "https://felfer.com.mx/obras-de-drenaje",
+    "https://felfer.com.mx/est-taludes",
+    "https://felfer.com.mx/edificaci%C3%B3n",
+    "https://felfer.com.mx/carreteras-1",
+    "https://felfer.com.mx/urbanizaci%C3%B3n",
+    "https://felfer.com.mx/terracer%C3%ADa",
+    "https://felfer.com.mx/nuestros-servicios",
+    "https://felfer.com.mx/f/autopista-ica-atizap%C3%A1n-%E2%80%93-atlacomulco",
+    "https://felfer.com.mx/f/estabilizaci%C3%B3n-de-taludes---torre%C3%B3n--cuencam%C3%A9---durango---coconal",
+    "https://felfer.com.mx/f/estabilizaci%C3%B3n--autopista-durango---mazatl%C3%A1n---capu",
+    "https://felfer.com.mx/f/proyecto-cmro-nayarit",
+    "https://felfer.com.mx/ols/products"
+  ],
+  "candidateGroups": 43,
+  "downloaded": 43,
+  "failed": 0,
+  "folders": {
+    "icons": 1,
+    "brand": 1,
+    "home/hero": 3,
+    "home/about": 5,
+    "home/clients": 12,
+    "services/estructuras/hero": 1,
+    "services/obras-de-drenaje/hero": 1,
+    "services/estabilizacion-de-taludes/hero": 1,
+    "services/edificacion/hero": 1,
+    "services/carreteras-conservacion-vial/hero": 1,
+    "services/urbanizacion/hero": 1,
+    "services/terracerias/hero": 1,
+    "services/general/hero": 1,
+    "services/general/gallery": 5,
+    "projects/autopista-ica-atizapán-atlacomulco": 1,
+    "home/obras": 4,
+    "projects/estabilización-de-taludes-torreón-cuencamé-durango-coconal": 1,
+    "projects/estabilización-autopista-durango-mazatlán-capu": 1,
+    "projects/proyecto-cmro-nayarit": 1
+  },
+  "images": [
+    {
+      "localPath": "icons/01-8fd0e64c-bc0b-475a-9961-c049433f90ba.png",
+      "folder": "icons",
+      "label": "8fd0e64c-bc0b-475a-9961-c049433f90ba",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/favicon/bf207106-57c0-4f2d-b2af-1fb223ebca3e/8fd0e64c-bc0b-475a-9961-c049433f90ba.png/:/rs=w:64,h:64,m",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/favicon/bf207106-57c0-4f2d-b2af-1fb223ebca3e/8fd0e64c-bc0b-475a-9961-c049433f90ba.png/:/rs=w:64,h:64,m",
+      "sourcePages": [
+        "https://felfer.com.mx/",
+        "https://felfer.com.mx/carreteras-1",
+        "https://felfer.com.mx/edificaci%C3%B3n",
+        "https://felfer.com.mx/est-taludes",
+        "https://felfer.com.mx/estructuras",
+        "https://felfer.com.mx/f/autopista-ica-atizap%C3%A1n-%E2%80%93-atlacomulco",
+        "https://felfer.com.mx/f/estabilizaci%C3%B3n--autopista-durango---mazatl%C3%A1n---capu",
+        "https://felfer.com.mx/f/estabilizaci%C3%B3n-de-taludes---torre%C3%B3n--cuencam%C3%A9---durango---coconal",
+        "https://felfer.com.mx/f/proyecto-cmro-nayarit",
+        "https://felfer.com.mx/nuestros-servicios",
+        "https://felfer.com.mx/obras-de-drenaje",
+        "https://felfer.com.mx/terracer%C3%ADa",
+        "https://felfer.com.mx/urbanizaci%C3%B3n"
+      ],
+      "contexts": [
+        "home/hero",
+        "projects/autopista-ica-atizapán-atlacomulco",
+        "projects/estabilización-autopista-durango-mazatlán-capu",
+        "projects/estabilización-de-taludes-torreón-cuencamé-durango-coconal",
+        "projects/proyecto-cmro-nayarit",
+        "services/carreteras-conservacion-vial/hero",
+        "services/edificacion/hero",
+        "services/estabilizacion-de-taludes/hero",
+        "services/estructuras/hero",
+        "services/general/hero",
+        "services/obras-de-drenaje/hero",
+        "services/terracerias/hero",
+        "services/urbanizacion/hero"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/favicon/bf207106-57c0-4f2d-b2af-1fb223ebca3e/8fd0e64c-bc0b-475a-9961-c049433f90ba.png",
+      "contentType": "image/jpeg",
+      "bytes": 1427,
+      "sha256": "f0eeca4e421de0bb6e7bac1e1da62532dc670a209c987c8bf8b888bdeb691bf6"
+    },
+    {
+      "localPath": "brand/01-logo-felfer.png",
+      "folder": "brand",
+      "label": "logo-felfer",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/blob-c4aab15.png/:/rs=w:320",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/blob-c4aab15.png/:/rs=w:320",
+      "sourcePages": [
+        "https://felfer.com.mx/",
+        "https://felfer.com.mx/carreteras-1",
+        "https://felfer.com.mx/edificaci%C3%B3n",
+        "https://felfer.com.mx/est-taludes",
+        "https://felfer.com.mx/estructuras",
+        "https://felfer.com.mx/f/autopista-ica-atizap%C3%A1n-%E2%80%93-atlacomulco",
+        "https://felfer.com.mx/f/estabilizaci%C3%B3n--autopista-durango---mazatl%C3%A1n---capu",
+        "https://felfer.com.mx/f/estabilizaci%C3%B3n-de-taludes---torre%C3%B3n--cuencam%C3%A9---durango---coconal",
+        "https://felfer.com.mx/f/proyecto-cmro-nayarit",
+        "https://felfer.com.mx/nuestros-servicios",
+        "https://felfer.com.mx/obras-de-drenaje",
+        "https://felfer.com.mx/terracer%C3%ADa",
+        "https://felfer.com.mx/urbanizaci%C3%B3n"
+      ],
+      "contexts": [
+        "HEADER_LOGO_IMAGE_RENDERED ImageLogo FELFER Constructora home/hero",
+        "HEADER_LOGO_IMAGE_RENDERED ImageLogo FELFER Constructora projects/autopista-ica-atizapán-atlacomulco",
+        "HEADER_LOGO_IMAGE_RENDERED ImageLogo FELFER Constructora projects/estabilización-autopista-durango-mazatlán-capu",
+        "HEADER_LOGO_IMAGE_RENDERED ImageLogo FELFER Constructora projects/estabilización-de-taludes-torreón-cuencamé-durango-coconal",
+        "HEADER_LOGO_IMAGE_RENDERED ImageLogo FELFER Constructora projects/proyecto-cmro-nayarit",
+        "HEADER_LOGO_IMAGE_RENDERED ImageLogo FELFER Constructora services/carreteras-conservacion-vial/hero",
+        "HEADER_LOGO_IMAGE_RENDERED ImageLogo FELFER Constructora services/edificacion/hero",
+        "HEADER_LOGO_IMAGE_RENDERED ImageLogo FELFER Constructora services/estabilizacion-de-taludes/hero",
+        "HEADER_LOGO_IMAGE_RENDERED ImageLogo FELFER Constructora services/estructuras/hero",
+        "HEADER_LOGO_IMAGE_RENDERED ImageLogo FELFER Constructora services/general/hero",
+        "HEADER_LOGO_IMAGE_RENDERED ImageLogo FELFER Constructora services/obras-de-drenaje/hero",
+        "HEADER_LOGO_IMAGE_RENDERED ImageLogo FELFER Constructora services/terracerias/hero",
+        "HEADER_LOGO_IMAGE_RENDERED ImageLogo FELFER Constructora services/urbanizacion/hero",
+        "home/hero",
+        "projects/autopista-ica-atizapán-atlacomulco",
+        "projects/estabilización-autopista-durango-mazatlán-capu",
+        "projects/estabilización-de-taludes-torreón-cuencamé-durango-coconal",
+        "projects/proyecto-cmro-nayarit",
+        "services/carreteras-conservacion-vial/hero",
+        "services/edificacion/hero",
+        "services/estabilizacion-de-taludes/hero",
+        "services/estructuras/hero",
+        "services/general/hero",
+        "services/obras-de-drenaje/hero",
+        "services/terracerias/hero",
+        "services/urbanizacion/hero"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/blob-c4aab15.png",
+      "contentType": "image/png",
+      "bytes": 18133,
+      "sha256": "cef7292a7db006d3082f1153498fe39c9d0d616c803f7856b8ae5e2555137453"
+    },
+    {
+      "localPath": "home/hero/01-hero-whatsapp-image-2025-08-28-at-12-40-01-pm.jpg",
+      "folder": "home/hero",
+      "label": "hero-whatsapp-image-2025-08-28-at-12-40-01-pm",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/WhatsApp%20Image%202025-08-28%20at%2012.40.01%20PM.jpeg/:/rs=w:5760,m",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/WhatsApp%20Image%202025-08-28%20at%2012.40.01%20PM.jpeg/:/rs=w:5760,m",
+      "sourcePages": [
+        "https://felfer.com.mx/"
+      ],
+      "contexts": [
+        "embedded-css home/hero",
+        "home/hero"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/whatsapp image 2025-08-28 at 12.40.01 pm.jpeg",
+      "contentType": "image/jpeg",
+      "bytes": 577905,
+      "sha256": "2e849705c585413b6a6c5820c7ed878554f936a0cda59f9b357e723da87c6d83"
+    },
+    {
+      "localPath": "home/hero/02-hero-como-crear-un-equipo-de-trabajo-fuerte-y-estab.jpg",
+      "folder": "home/hero",
+      "label": "hero-como-crear-un-equipo-de-trabajo-fuerte-y-estab",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/como%20crear%20un%20equipo%20de%20trabajo%20fuerte%20y%20estab.jpg/:/cr=t:12.52%25",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/como%20crear%20un%20equipo%20de%20trabajo%20fuerte%20y%20estab.jpg/:/cr=t:12.52%25",
+      "sourcePages": [
+        "https://felfer.com.mx/"
+      ],
+      "contexts": [
+        "home/hero Expertos en darle forma al terreno y solidez al futuro."
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/como crear un equipo de trabajo fuerte y estab.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 122537,
+      "sha256": "4cbd456ebc7e6e9f6bd9b855503aa09188cbd1c3ac0b5fb66f7c3a29d4de2224"
+    },
+    {
+      "localPath": "home/about/01-como-crear-un-equipo-de-trabajo-fuerte-y-estab.jpg",
+      "folder": "home/about",
+      "label": "como-crear-un-equipo-de-trabajo-fuerte-y-estab",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/como%20crear%20un%20equipo%20de%20trabajo%20fuerte%20y%20estab.jpg/:/cr=t:12.52%25,l:0%25,w:100%25,h:74.96%25/rs=w:600,h:300,cg:true",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/como%20crear%20un%20equipo%20de%20trabajo%20fuerte%20y%20estab.jpg/:/cr=t:12.52%25,l:0%25,w:100%25,h:74.96%25/rs=w:600,h:300,cg:true",
+      "sourcePages": [
+        "https://felfer.com.mx/"
+      ],
+      "contexts": [
+        "ABOUT_IMAGE_RENDERED1 Image home/hero Expertos en darle forma al terreno y solidez al futuro."
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/como crear un equipo de trabajo fuerte y estab.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 45878,
+      "sha256": "abde99ddc8cdd19fd0b32e433563d18c7b328bbe3a2f94829e37c38c5095cf25"
+    },
+    {
+      "localPath": "home/hero/03-hero-2148065933.jpg",
+      "folder": "home/hero",
+      "label": "hero-2148065933",
+      "url": "https://img1.wsimg.com/isteam/getty/2148065933/:/cr=t:12.5%25",
+      "finalUrl": "https://img1.wsimg.com/isteam/getty/2148065933/:/cr=t:12.5%25",
+      "sourcePages": [
+        "https://felfer.com.mx/"
+      ],
+      "contexts": [
+        "home/hero Expertos en darle forma al terreno y solidez al futuro."
+      ],
+      "assetKey": "img1.wsimg.com/isteam/getty/2148065933",
+      "contentType": "image/jpeg",
+      "bytes": 231406,
+      "sha256": "33c1203a00b071c9f3c90c90700f1d423e51ac8e4801d30f890043fd14573523"
+    },
+    {
+      "localPath": "home/about/02-2148065933.jpg",
+      "folder": "home/about",
+      "label": "2148065933",
+      "url": "https://img1.wsimg.com/isteam/getty/2148065933/:/cr=t:12.5%25,l:0%25,w:100%25,h:75%25/rs=w:600,h:300,cg:true",
+      "finalUrl": "https://img1.wsimg.com/isteam/getty/2148065933/:/cr=t:12.5%25,l:0%25,w:100%25,h:75%25/rs=w:600,h:300,cg:true",
+      "sourcePages": [
+        "https://felfer.com.mx/"
+      ],
+      "contexts": [
+        "ABOUT_IMAGE_RENDERED2 Image home/hero Expertos en darle forma al terreno y solidez al futuro."
+      ],
+      "assetKey": "img1.wsimg.com/isteam/getty/2148065933",
+      "contentType": "image/jpeg",
+      "bytes": 43154,
+      "sha256": "c8696335d29486624cd23bd879e084a3c14650f8f3c9bdb6be9a8c05ec108d3a"
+    },
+    {
+      "localPath": "home/about/03-blob-cbcac13.png",
+      "folder": "home/about",
+      "label": "blob-cbcac13",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/blob-cbcac13.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:365,h:365,cg:true",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/blob-cbcac13.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:365,h:365,cg:true",
+      "sourcePages": [
+        "https://felfer.com.mx/"
+      ],
+      "contexts": [
+        "ABOUT_IMAGE_RENDERED0 ContentCardImageThumbnail home/hero Acerca de Constructora FELFER"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/blob-cbcac13.png",
+      "contentType": "image/png",
+      "bytes": 24357,
+      "sha256": "18ab2d504ec561a35bf6126a1a6b4c872dea6ea03e59b20b3b8604084b3cca23"
+    },
+    {
+      "localPath": "home/about/04-blob-218c44c.png",
+      "folder": "home/about",
+      "label": "blob-218c44c",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/blob-218c44c.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:365,h:365,cg:true",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/blob-218c44c.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:365,h:365,cg:true",
+      "sourcePages": [
+        "https://felfer.com.mx/"
+      ],
+      "contexts": [
+        "ABOUT_IMAGE_RENDERED1 ContentCardImageThumbnail home/hero Acerca de Constructora FELFER"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/blob-218c44c.png",
+      "contentType": "image/png",
+      "bytes": 20858,
+      "sha256": "834c8ea19a78b32986fe28b51dd77d3b43291a1bc2c0fc74d3eca48aed2b51b3"
+    },
+    {
+      "localPath": "home/about/05-blob-18ea0b3.png",
+      "folder": "home/about",
+      "label": "blob-18ea0b3",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/blob-18ea0b3.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:365,h:365,cg:true",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/blob-18ea0b3.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:365,h:365,cg:true",
+      "sourcePages": [
+        "https://felfer.com.mx/"
+      ],
+      "contexts": [
+        "ABOUT_IMAGE_RENDERED2 ContentCardImageThumbnail home/hero Acerca de Constructora FELFER"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/blob-18ea0b3.png",
+      "contentType": "image/png",
+      "bytes": 22999,
+      "sha256": "887fbd8c277457dd8925650f508eb199efd9ff620b17412ee4dfffad0e380860"
+    },
+    {
+      "localPath": "home/clients/01-logo-cliente-images-6f5f5b3.png",
+      "folder": "home/clients",
+      "label": "logo-cliente-images-6f5f5b3",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/images-6f5f5b3.png/:/rs=w:290",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/images-6f5f5b3.png/:/rs=w:290",
+      "sourcePages": [
+        "https://felfer.com.mx/"
+      ],
+      "contexts": [
+        "LOGOS_IMAGE0_RENDERED ImageLogo home/clients Clientes Destacados"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/images-6f5f5b3.png",
+      "contentType": "image/jpeg",
+      "bytes": 5421,
+      "sha256": "9b205d8b37a628512a67874cde9ae9ef3c048e6dfe1ded0b17874e0742711fab"
+    },
+    {
+      "localPath": "home/clients/02-logo-cliente-images-2.png",
+      "folder": "home/clients",
+      "label": "logo-cliente-images-2",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/images%20(2).png/:/rs=w:225",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/images%20(2).png/:/rs=w:225",
+      "sourcePages": [
+        "https://felfer.com.mx/"
+      ],
+      "contexts": [
+        "LOGOS_IMAGE1_RENDERED ImageLogo home/clients Clientes Destacados"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/images (2).png",
+      "contentType": "image/jpeg",
+      "bytes": 4090,
+      "sha256": "4e8d4f61f572b766f89a7751c14b75bd78033e5fc418b220f2e9f9894ebf0060"
+    },
+    {
+      "localPath": "home/clients/03-logo-mota-engil.webp",
+      "folder": "home/clients",
+      "label": "logo-mota-engil",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/Mota-Engil-entre-as-100-Maiores-Construtoras-.webp/:/rs=w:166",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/Mota-Engil-entre-as-100-Maiores-Construtoras-.webp/:/rs=w:166",
+      "sourcePages": [
+        "https://felfer.com.mx/"
+      ],
+      "contexts": [
+        "LOGOS_IMAGE2_RENDERED ImageLogo home/clients Clientes Destacados"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/mota-engil-entre-as-100-maiores-construtoras-.webp",
+      "contentType": "image/jpeg",
+      "bytes": 9269,
+      "sha256": "e0c0ed3770485be4218c1a6dd48255e7c92bb4582fcca59ec189078534549bcb"
+    },
+    {
+      "localPath": "home/clients/04-logo-cicsa.webp",
+      "folder": "home/clients",
+      "label": "logo-cicsa",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/cicsa.webp/:/rs=w:792",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/cicsa.webp/:/rs=w:792",
+      "sourcePages": [
+        "https://felfer.com.mx/"
+      ],
+      "contexts": [
+        "LOGOS_IMAGE3_RENDERED ImageLogo home/clients Clientes Destacados"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/cicsa.webp",
+      "contentType": "image/png",
+      "bytes": 32062,
+      "sha256": "219047e6f351f316549f44b21b4ecb501b19fb4cf3a44f28b73a36605c02b89c"
+    },
+    {
+      "localPath": "home/clients/05-logo-sict.png",
+      "folder": "home/clients",
+      "label": "logo-sict",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/SICT_logo_2018-2024.svg.png/:/rs=w:1280",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/SICT_logo_2018-2024.svg.png/:/rs=w:1280",
+      "sourcePages": [
+        "https://felfer.com.mx/",
+        "https://felfer.com.mx/f/autopista-ica-atizap%C3%A1n-%E2%80%93-atlacomulco",
+        "https://felfer.com.mx/f/estabilizaci%C3%B3n--autopista-durango---mazatl%C3%A1n---capu",
+        "https://felfer.com.mx/f/estabilizaci%C3%B3n-de-taludes---torre%C3%B3n--cuencam%C3%A9---durango---coconal",
+        "https://felfer.com.mx/f/proyecto-cmro-nayarit"
+      ],
+      "contexts": [
+        "LOGOS_IMAGE4_RENDERED ImageLogo home/clients Clientes Destacados",
+        "LOGOS_IMAGE4_RENDERED ImageLogo projects/autopista-ica-atizapán-atlacomulco Clientes Destacados",
+        "LOGOS_IMAGE4_RENDERED ImageLogo projects/estabilización-autopista-durango-mazatlán-capu Clientes Destacados",
+        "LOGOS_IMAGE4_RENDERED ImageLogo projects/estabilización-de-taludes-torreón-cuencamé-durango-coconal Clientes Destacados",
+        "LOGOS_IMAGE4_RENDERED ImageLogo projects/proyecto-cmro-nayarit Clientes Destacados"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/sict_logo_2018-2024.svg.png",
+      "contentType": "image/png",
+      "bytes": 180140,
+      "sha256": "ec9d154805727d578261eafbbf954989640e9ae6077e649b6c4b833b060b91c7"
+    },
+    {
+      "localPath": "home/clients/06-logo-cei.png",
+      "folder": "home/clients",
+      "label": "logo-cei",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/logo_CEI_COLOR_vertical_-01.png/:/rs=w:464",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/logo_CEI_COLOR_vertical_-01.png/:/rs=w:464",
+      "sourcePages": [
+        "https://felfer.com.mx/",
+        "https://felfer.com.mx/f/autopista-ica-atizap%C3%A1n-%E2%80%93-atlacomulco",
+        "https://felfer.com.mx/f/estabilizaci%C3%B3n--autopista-durango---mazatl%C3%A1n---capu",
+        "https://felfer.com.mx/f/estabilizaci%C3%B3n-de-taludes---torre%C3%B3n--cuencam%C3%A9---durango---coconal",
+        "https://felfer.com.mx/f/proyecto-cmro-nayarit"
+      ],
+      "contexts": [
+        "LOGOS_IMAGE5_RENDERED ImageLogo home/clients Clientes Destacados",
+        "LOGOS_IMAGE5_RENDERED ImageLogo projects/autopista-ica-atizapán-atlacomulco Clientes Destacados",
+        "LOGOS_IMAGE5_RENDERED ImageLogo projects/estabilización-autopista-durango-mazatlán-capu Clientes Destacados",
+        "LOGOS_IMAGE5_RENDERED ImageLogo projects/estabilización-de-taludes-torreón-cuencamé-durango-coconal Clientes Destacados",
+        "LOGOS_IMAGE5_RENDERED ImageLogo projects/proyecto-cmro-nayarit Clientes Destacados"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/logo_cei_color_vertical_-01.png",
+      "contentType": "image/png",
+      "bytes": 65951,
+      "sha256": "bdf2d13bab38ff5243f815998453e83b7adaccdec5923ca8337b30991ad1ab96"
+    },
+    {
+      "localPath": "home/clients/07-logo-cliente-cdi5b6dd7aaa256a-500w.jpg",
+      "folder": "home/clients",
+      "label": "logo-cliente-cdi5b6dd7aaa256a-500w",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/cdi5b6dd7aaa256a_500w.jpg/:/rs=w:495",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/cdi5b6dd7aaa256a_500w.jpg/:/rs=w:495",
+      "sourcePages": [
+        "https://felfer.com.mx/"
+      ],
+      "contexts": [
+        "LOGOS_IMAGE6_RENDERED ImageLogo home/clients Clientes Destacados"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/cdi5b6dd7aaa256a_500w.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 10461,
+      "sha256": "b76859eb8f9fed25551c43a733b1abcc7c8e3db5812d88f0b92edebdba82c597"
+    },
+    {
+      "localPath": "home/clients/08-logo-cliente-images-1.png",
+      "folder": "home/clients",
+      "label": "logo-cliente-images-1",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/images%20(1).png/:/rs=w:264",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/images%20(1).png/:/rs=w:264",
+      "sourcePages": [
+        "https://felfer.com.mx/"
+      ],
+      "contexts": [
+        "LOGOS_IMAGE7_RENDERED ImageLogo home/clients Clientes Destacados"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/images (1).png",
+      "contentType": "image/jpeg",
+      "bytes": 9082,
+      "sha256": "b6b4019ef5d98a1f9b5e96f58c4272adb076f4e4f17d355831586c23f28edc58"
+    },
+    {
+      "localPath": "home/clients/09-logo-sedena.png",
+      "folder": "home/clients",
+      "label": "logo-sedena",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/SEDENA_Logo_2019.svg.png/:/rs=w:1024",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/SEDENA_Logo_2019.svg.png/:/rs=w:1024",
+      "sourcePages": [
+        "https://felfer.com.mx/",
+        "https://felfer.com.mx/f/autopista-ica-atizap%C3%A1n-%E2%80%93-atlacomulco",
+        "https://felfer.com.mx/f/estabilizaci%C3%B3n--autopista-durango---mazatl%C3%A1n---capu",
+        "https://felfer.com.mx/f/estabilizaci%C3%B3n-de-taludes---torre%C3%B3n--cuencam%C3%A9---durango---coconal",
+        "https://felfer.com.mx/f/proyecto-cmro-nayarit"
+      ],
+      "contexts": [
+        "LOGOS_IMAGE8_RENDERED ImageLogo home/clients Clientes Destacados",
+        "LOGOS_IMAGE8_RENDERED ImageLogo projects/autopista-ica-atizapán-atlacomulco Clientes Destacados",
+        "LOGOS_IMAGE8_RENDERED ImageLogo projects/estabilización-autopista-durango-mazatlán-capu Clientes Destacados",
+        "LOGOS_IMAGE8_RENDERED ImageLogo projects/estabilización-de-taludes-torreón-cuencamé-durango-coconal Clientes Destacados",
+        "LOGOS_IMAGE8_RENDERED ImageLogo projects/proyecto-cmro-nayarit Clientes Destacados"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/sedena_logo_2019.svg.png",
+      "contentType": "image/png",
+      "bytes": 163569,
+      "sha256": "c306f5d06430958c5a48af6e01991f60377e8797d2cedbbe1304a35efbe49290"
+    },
+    {
+      "localPath": "home/clients/10-logo-cliente-logo2.png",
+      "folder": "home/clients",
+      "label": "logo-cliente-logo2",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/LOGO2.png/:/rs=w:792",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/LOGO2.png/:/rs=w:792",
+      "sourcePages": [
+        "https://felfer.com.mx/",
+        "https://felfer.com.mx/f/autopista-ica-atizap%C3%A1n-%E2%80%93-atlacomulco",
+        "https://felfer.com.mx/f/estabilizaci%C3%B3n--autopista-durango---mazatl%C3%A1n---capu",
+        "https://felfer.com.mx/f/estabilizaci%C3%B3n-de-taludes---torre%C3%B3n--cuencam%C3%A9---durango---coconal",
+        "https://felfer.com.mx/f/proyecto-cmro-nayarit"
+      ],
+      "contexts": [
+        "LOGOS_IMAGE9_RENDERED ImageLogo home/clients Clientes Destacados",
+        "LOGOS_IMAGE9_RENDERED ImageLogo projects/autopista-ica-atizapán-atlacomulco Clientes Destacados",
+        "LOGOS_IMAGE9_RENDERED ImageLogo projects/estabilización-autopista-durango-mazatlán-capu Clientes Destacados",
+        "LOGOS_IMAGE9_RENDERED ImageLogo projects/estabilización-de-taludes-torreón-cuencamé-durango-coconal Clientes Destacados",
+        "LOGOS_IMAGE9_RENDERED ImageLogo projects/proyecto-cmro-nayarit Clientes Destacados"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/logo2.png",
+      "contentType": "image/png",
+      "bytes": 113408,
+      "sha256": "01d3c0f8ab94138391da732e279bbc65996fbfb4c155c5a1b0aa0ffaf2a58980"
+    },
+    {
+      "localPath": "home/clients/11-logo-cliente-bwggxvytxbcrmfxfhgdsogvdqvefeosbwzpqcxkywrstnz.png",
+      "folder": "home/clients",
+      "label": "logo-cliente-bwggxvytxbcrmfxfhgdsogvdqvefeosbwzpqcxkywrstnz",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/bWggxvYtxBCrMfXFhgdsogvDQvEfEoSbwZpQcXKywRStnZ.png/:/rs=w:214",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/bWggxvYtxBCrMfXFhgdsogvDQvEfEoSbwZpQcXKywRStnZ.png/:/rs=w:214",
+      "sourcePages": [
+        "https://felfer.com.mx/"
+      ],
+      "contexts": [
+        "LOGOS_IMAGE10_RENDERED ImageLogo home/clients Clientes Destacados"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/bwggxvytxbcrmfxfhgdsogvdqvefeosbwzpqcxkywrstnz.png",
+      "contentType": "image/png",
+      "bytes": 13047,
+      "sha256": "05c3310cd83045ecbfee0c722a401b81bc9177aee21b087dcea0fd7fcdde736e"
+    },
+    {
+      "localPath": "home/clients/12-logo-capufe.jpg",
+      "folder": "home/clients",
+      "label": "logo-capufe",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/LOGO_CAPUFE.jpg/:/rs=w:750",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/LOGO_CAPUFE.jpg/:/rs=w:750",
+      "sourcePages": [
+        "https://felfer.com.mx/",
+        "https://felfer.com.mx/f/autopista-ica-atizap%C3%A1n-%E2%80%93-atlacomulco",
+        "https://felfer.com.mx/f/estabilizaci%C3%B3n--autopista-durango---mazatl%C3%A1n---capu",
+        "https://felfer.com.mx/f/estabilizaci%C3%B3n-de-taludes---torre%C3%B3n--cuencam%C3%A9---durango---coconal",
+        "https://felfer.com.mx/f/proyecto-cmro-nayarit"
+      ],
+      "contexts": [
+        "LOGOS_IMAGE11_RENDERED ImageLogo home/clients Clientes Destacados",
+        "LOGOS_IMAGE11_RENDERED ImageLogo projects/autopista-ica-atizapán-atlacomulco Clientes Destacados",
+        "LOGOS_IMAGE11_RENDERED ImageLogo projects/estabilización-autopista-durango-mazatlán-capu Clientes Destacados",
+        "LOGOS_IMAGE11_RENDERED ImageLogo projects/estabilización-de-taludes-torreón-cuencamé-durango-coconal Clientes Destacados",
+        "LOGOS_IMAGE11_RENDERED ImageLogo projects/proyecto-cmro-nayarit Clientes Destacados"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/logo_capufe.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 28506,
+      "sha256": "36233db402f8cbdf8910160fa103f8a4b2f74f19f282f4729c909e6d8b473581"
+    },
+    {
+      "localPath": "services/estructuras/hero/01-hero-estructuras-1499135725.jpg",
+      "folder": "services/estructuras/hero",
+      "label": "hero-estructuras-1499135725",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/WhatsApp%20Image%202025-10-01%20at%2012.35.52%20PM.jpeg/:/rs=w:5760,m",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/WhatsApp%20Image%202025-10-01%20at%2012.35.52%20PM.jpeg/:/rs=w:5760,m",
+      "sourcePages": [
+        "https://felfer.com.mx/estructuras"
+      ],
+      "contexts": [
+        "embedded-css services/estructuras/hero"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/getty/1499135725",
+      "contentType": "image/jpeg",
+      "bytes": 160582,
+      "sha256": "d17e6c4f02e248d926b134656208a6c8642629ca61c4322b67b7b3959b2f5fe8"
+    },
+    {
+      "localPath": "services/obras-de-drenaje/hero/01-hero-obras-de-drenaje-2187927891.jpg",
+      "folder": "services/obras-de-drenaje/hero",
+      "label": "hero-obras-de-drenaje-2187927891",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/P1110298-cd5d812.JPG/:/rs=w:5760,m",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/P1110298-cd5d812.JPG/:/rs=w:5760,m",
+      "sourcePages": [
+        "https://felfer.com.mx/obras-de-drenaje"
+      ],
+      "contexts": [
+        "embedded-css services/obras-de-drenaje/hero"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/getty/2187927891",
+      "contentType": "image/jpeg",
+      "bytes": 435702,
+      "sha256": "88fd2bd756cd799a9005238150417f12b58b9a9e9b7acf05b6fae7300ade8182"
+    },
+    {
+      "localPath": "services/estabilizacion-de-taludes/hero/01-hero-estabilizacion-de-taludes-whatsapp-image-2025-08-28-at-12-40-01-pm.jpg",
+      "folder": "services/estabilizacion-de-taludes/hero",
+      "label": "hero-estabilizacion-de-taludes-whatsapp-image-2025-08-28-at-12-40-01-pm",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/WhatsApp%20Image%202025-08-28%20at%2012.40.01%20PM.jpeg",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/WhatsApp%20Image%202025-08-28%20at%2012.40.01%20PM.jpeg",
+      "sourcePages": [
+        "https://felfer.com.mx/est-taludes"
+      ],
+      "contexts": [
+        "services/estabilizacion-de-taludes/hero service-hero-fallback"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/whatsapp image 2025-08-28 at 12.40.01 pm.jpeg",
+      "contentType": "image/jpeg",
+      "bytes": 577905,
+      "sha256": "2e849705c585413b6a6c5820c7ed878554f936a0cda59f9b357e723da87c6d83",
+      "duplicateOf": "home/hero/01-hero-whatsapp-image-2025-08-28-at-12-40-01-pm.jpg"
+    },
+    {
+      "localPath": "services/edificacion/hero/01-hero-edificacion-944868058.jpg",
+      "folder": "services/edificacion/hero",
+      "label": "hero-edificacion-944868058",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/WhatsApp%20Image%202022-02-24%20at%202.48.00%20PM%20(4).jpeg/:/rs=w:5760,m",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/WhatsApp%20Image%202022-02-24%20at%202.48.00%20PM%20(4).jpeg/:/rs=w:5760,m",
+      "sourcePages": [
+        "https://felfer.com.mx/edificaci%C3%B3n"
+      ],
+      "contexts": [
+        "embedded-css services/edificacion/hero"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/getty/944868058",
+      "contentType": "image/jpeg",
+      "bytes": 223002,
+      "sha256": "d5dfed64c02bbdb57e4046ef3c80d884548760ba3eca26e0c9e3802f1173a274"
+    },
+    {
+      "localPath": "services/carreteras-conservacion-vial/hero/01-hero-carreteras-conservacion-vial-1494480364.jpg",
+      "folder": "services/carreteras-conservacion-vial/hero",
+      "label": "hero-carreteras-conservacion-vial-1494480364",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/WhatsApp%20Image%202019-01-04%20at%2010.54.56%20(1).jpeg/:/rs=w:5760,m",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/WhatsApp%20Image%202019-01-04%20at%2010.54.56%20(1).jpeg/:/rs=w:5760,m",
+      "sourcePages": [
+        "https://felfer.com.mx/carreteras-1"
+      ],
+      "contexts": [
+        "embedded-css services/carreteras-conservacion-vial/hero"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/getty/1494480364",
+      "contentType": "image/jpeg",
+      "bytes": 145307,
+      "sha256": "922db6b23812c18326f13bf754eb1d79e657d34f906b6735ffa0b3cc8dc71e3d"
+    },
+    {
+      "localPath": "services/urbanizacion/hero/01-hero-urbanizacion-929029342.jpg",
+      "folder": "services/urbanizacion/hero",
+      "label": "hero-urbanizacion-929029342",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/WhatsApp%20Image%202019-01-04%20at%2013.58.54.jpeg/:/rs=w:5760,m",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/WhatsApp%20Image%202019-01-04%20at%2013.58.54.jpeg/:/rs=w:5760,m",
+      "sourcePages": [
+        "https://felfer.com.mx/urbanizaci%C3%B3n"
+      ],
+      "contexts": [
+        "embedded-css services/urbanizacion/hero"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/getty/929029342",
+      "contentType": "image/jpeg",
+      "bytes": 64875,
+      "sha256": "48872ff35555faa3333508dd257ad2a895615a0bf6a0c63a156c6af28fd79883"
+    },
+    {
+      "localPath": "services/terracerias/hero/01-hero-terracerias-1211217584.png",
+      "folder": "services/terracerias/hero",
+      "label": "hero-terracerias-1211217584",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/Gemini_Generated_Image_fuumfyfuumfyfuum.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:2558,m",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/Gemini_Generated_Image_fuumfyfuumfyfuum.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:2558,m",
+      "sourcePages": [
+        "https://felfer.com.mx/terracer%C3%ADa"
+      ],
+      "contexts": [
+        "embedded-css services/terracerias/hero"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/getty/1211217584",
+      "contentType": "image/jpeg",
+      "bytes": 114508,
+      "sha256": "4d4c47066ee6539aeff45d1d1ff03e4fd1323675214fcb9b9708412e0752ca88"
+    },
+    {
+      "localPath": "services/general/hero/01-hero-general-whatsapp-image-2025-08-28-at-12-40-01-pm.jpg",
+      "folder": "services/general/hero",
+      "label": "hero-general-whatsapp-image-2025-08-28-at-12-40-01-pm",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/WhatsApp%20Image%202025-08-28%20at%2012.40.01%20PM.jpeg",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/WhatsApp%20Image%202025-08-28%20at%2012.40.01%20PM.jpeg",
+      "sourcePages": [
+        "https://felfer.com.mx/nuestros-servicios"
+      ],
+      "contexts": [
+        "services/general/hero service-hero-fallback"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/whatsapp image 2025-08-28 at 12.40.01 pm.jpeg",
+      "contentType": "image/jpeg",
+      "bytes": 577905,
+      "sha256": "2e849705c585413b6a6c5820c7ed878554f936a0cda59f9b357e723da87c6d83",
+      "duplicateOf": "services/estabilizacion-de-taludes/hero/01-hero-estabilizacion-de-taludes-whatsapp-image-2025-08-28-at-12-40-01-pm.jpg"
+    },
+    {
+      "localPath": "services/general/gallery/01-whatsapp-image-2025-08-28-at-12-29-10-4e8b5f6.jpg",
+      "folder": "services/general/gallery",
+      "label": "whatsapp-image-2025-08-28-at-12-29-10-4e8b5f6",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/WhatsApp%20Image%202025-08-28%20at%2012.29.10-4e8b5f6.jpeg/:/cr=t:0%25,l:12.5%25,w:75%25,h:100%25/rs=w:600,h:600,cg:true",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/WhatsApp%20Image%202025-08-28%20at%2012.29.10-4e8b5f6.jpeg/:/cr=t:0%25,l:12.5%25,w:75%25,h:100%25/rs=w:600,h:600,cg:true",
+      "sourcePages": [
+        "https://felfer.com.mx/nuestros-servicios"
+      ],
+      "contexts": [
+        "ABOUT_IMAGE_RENDERED0 Image services/general/hero SERVICIOS ESPECIALIZADOS",
+        "services/general/hero SERVICIOS ESPECIALIZADOS"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/whatsapp image 2025-08-28 at 12.29.10-4e8b5f6.jpeg",
+      "contentType": "image/jpeg",
+      "bytes": 95404,
+      "sha256": "1894071815df06fbf69fb0b2cfbf8b99a92654a89e2cf5c5457f17448aaed0ad"
+    },
+    {
+      "localPath": "services/general/gallery/02-gris-foto-collage-monocromático-papel-rasgado.jpg",
+      "folder": "services/general/gallery",
+      "label": "gris-foto-collage-monocromático-papel-rasgado",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/Gris%20Foto%20Collage%20Monocrom%C3%A1tico%20Papel%20Rasgado%20.jpg/:/cr=t:12.5%25,l:0%25,w:100%25,h:75%25/rs=w:600,h:800,cg:true",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/Gris%20Foto%20Collage%20Monocrom%C3%A1tico%20Papel%20Rasgado%20.jpg/:/cr=t:12.5%25,l:0%25,w:100%25,h:75%25/rs=w:600,h:800,cg:true",
+      "sourcePages": [
+        "https://felfer.com.mx/nuestros-servicios"
+      ],
+      "contexts": [
+        "ABOUT_IMAGE_RENDERED1 Image services/general/hero SERVICIOS ESPECIALIZADOS",
+        "services/general/hero SERVICIOS ESPECIALIZADOS"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/gris foto collage monocromático papel rasgado .jpg",
+      "contentType": "image/jpeg",
+      "bytes": 94753,
+      "sha256": "bc100841e77278512d9e2096e035966e74fbdd0da4925aea5566af1a3bd54e54"
+    },
+    {
+      "localPath": "services/general/gallery/03-1474107480.jpg",
+      "folder": "services/general/gallery",
+      "label": "1474107480",
+      "url": "https://img1.wsimg.com/isteam/getty/1474107480/:/cr=t:0%25,l:0.19%25,w:99.62%25,h:100%25/rs=w:600,h:451.12781954887214,cg:true",
+      "finalUrl": "https://img1.wsimg.com/isteam/getty/1474107480/:/cr=t:0%25,l:0.19%25,w:99.62%25,h:100%25/rs=w:600,h:451.12781954887214,cg:true",
+      "sourcePages": [
+        "https://felfer.com.mx/nuestros-servicios"
+      ],
+      "contexts": [
+        "ABOUT_IMAGE_RENDERED2 Image services/general/hero SERVICIOS ESPECIALIZADOS",
+        "services/general/hero SERVICIOS ESPECIALIZADOS"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/getty/1474107480",
+      "contentType": "image/jpeg",
+      "bytes": 109154,
+      "sha256": "168dec8e7ca3235ac694a9fb9b01c77dcc2ff35c3c5f7edf1738cce842e0a78d"
+    },
+    {
+      "localPath": "services/general/gallery/04-whatsapp-image-2019-01-04-at-10-42-34-1.jpg",
+      "folder": "services/general/gallery",
+      "label": "whatsapp-image-2019-01-04-at-10-42-34-1",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/WhatsApp%20Image%202019-01-04%20at%2010.42.34%20(1).jpeg/:/rs=w:1152",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/WhatsApp%20Image%202019-01-04%20at%2010.42.34%20(1).jpeg/:/rs=w:1152",
+      "sourcePages": [
+        "https://felfer.com.mx/nuestros-servicios"
+      ],
+      "contexts": [
+        "ABOUT_IMAGE_RENDERED3 Image services/general/hero SERVICIOS ESPECIALIZADOS",
+        "services/general/hero SERVICIOS ESPECIALIZADOS"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/whatsapp image 2019-01-04 at 10.42.34 (1).jpeg",
+      "contentType": "image/jpeg",
+      "bytes": 120462,
+      "sha256": "62150db133e24e0175a696c3ae947c3ad3d41e7927263b4b91dbcd8abf283966"
+    },
+    {
+      "localPath": "services/general/gallery/05-minimalist-beauty-photo-collage-instagram-port.jpg",
+      "folder": "services/general/gallery",
+      "label": "minimalist-beauty-photo-collage-instagram-port",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/Minimalist%20Beauty%20Photo%20Collage%20Instagram%20Port.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:600,cg:true",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/Minimalist%20Beauty%20Photo%20Collage%20Instagram%20Port.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:600,cg:true",
+      "sourcePages": [
+        "https://felfer.com.mx/nuestros-servicios"
+      ],
+      "contexts": [
+        "ABOUT_IMAGE_RENDERED4 Image services/general/hero SERVICIOS ESPECIALIZADOS",
+        "services/general/hero SERVICIOS ESPECIALIZADOS"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/minimalist beauty photo collage instagram port.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 96970,
+      "sha256": "fed8896e247b9116c6bc1ed515c7dde28e623eee9fa9450e6bb827b8cd5ba6d5"
+    },
+    {
+      "localPath": "projects/autopista-ica-atizapán-atlacomulco/01-proyecto-autopista-ica-atizapán-atlacomulco.jpg",
+      "folder": "projects/autopista-ica-atizapán-atlacomulco",
+      "label": "proyecto-autopista-ica-atizapán-atlacomulco",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/LF%20Campeche%203-a95dc33.JPG",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/LF%20Campeche%203-a95dc33.JPG",
+      "sourcePages": [
+        "https://felfer.com.mx/f/autopista-ica-atizap%C3%A1n-%E2%80%93-atlacomulco"
+      ],
+      "contexts": [
+        "embedded-css projects/autopista-ica-atizapán-atlacomulco",
+        "projects/autopista-ica-atizapán-atlacomulco"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/lf campeche 3-a95dc33.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 1155284,
+      "sha256": "575739cb9b956ee3c56c2572026a6022b3201f62a727e8acd5eeade184f51dd3"
+    },
+    {
+      "localPath": "home/obras/01-obra-destacada-autopista-ica-atizapán-atlacomulco.jpg",
+      "folder": "home/obras",
+      "label": "obra-destacada-autopista-ica-atizapán-atlacomulco",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/LF%20Campeche%203-a95dc33.JPG",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/LF%20Campeche%203-a95dc33.JPG",
+      "sourcePages": [
+        "https://felfer.com.mx/f/autopista-ica-atizap%C3%A1n-%E2%80%93-atlacomulco"
+      ],
+      "contexts": [
+        "embedded-css projects/autopista-ica-atizapán-atlacomulco home-obras-alias",
+        "projects/autopista-ica-atizapán-atlacomulco home-obras-alias"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/lf campeche 3-a95dc33.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 1155284,
+      "sha256": "575739cb9b956ee3c56c2572026a6022b3201f62a727e8acd5eeade184f51dd3",
+      "duplicateOf": "projects/autopista-ica-atizapán-atlacomulco/01-proyecto-autopista-ica-atizapán-atlacomulco.jpg"
+    },
+    {
+      "localPath": "projects/estabilización-de-taludes-torreón-cuencamé-durango-coconal/01-proyecto-estabilización-de-taludes-torreón-cuencamé-durango-coconal.jpg",
+      "folder": "projects/estabilización-de-taludes-torreón-cuencamé-durango-coconal",
+      "label": "proyecto-estabilización-de-taludes-torreón-cuencamé-durango-coconal",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/WhatsApp%20Image%202025-09-29%20at%201.30.11%20PM.jpeg",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/WhatsApp%20Image%202025-09-29%20at%201.30.11%20PM.jpeg",
+      "sourcePages": [
+        "https://felfer.com.mx/f/estabilizaci%C3%B3n-de-taludes---torre%C3%B3n--cuencam%C3%A9---durango---coconal"
+      ],
+      "contexts": [
+        "embedded-css projects/estabilización-de-taludes-torreón-cuencamé-durango-coconal",
+        "projects/estabilización-de-taludes-torreón-cuencamé-durango-coconal"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/whatsapp image 2025-09-29 at 1.30.11 pm.jpeg",
+      "contentType": "image/jpeg",
+      "bytes": 424796,
+      "sha256": "1f528a63ded4b84368745976b1112e0838abf81bd354f511b0895f313c1c6e52"
+    },
+    {
+      "localPath": "home/obras/02-obra-destacada-estabilización-de-taludes-torreón-cuencamé-durango-coconal.jpg",
+      "folder": "home/obras",
+      "label": "obra-destacada-estabilización-de-taludes-torreón-cuencamé-durango-coconal",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/WhatsApp%20Image%202025-09-29%20at%201.30.11%20PM.jpeg",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/WhatsApp%20Image%202025-09-29%20at%201.30.11%20PM.jpeg",
+      "sourcePages": [
+        "https://felfer.com.mx/f/estabilizaci%C3%B3n-de-taludes---torre%C3%B3n--cuencam%C3%A9---durango---coconal"
+      ],
+      "contexts": [
+        "embedded-css projects/estabilización-de-taludes-torreón-cuencamé-durango-coconal home-obras-alias",
+        "projects/estabilización-de-taludes-torreón-cuencamé-durango-coconal home-obras-alias"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/whatsapp image 2025-09-29 at 1.30.11 pm.jpeg",
+      "contentType": "image/jpeg",
+      "bytes": 424796,
+      "sha256": "1f528a63ded4b84368745976b1112e0838abf81bd354f511b0895f313c1c6e52",
+      "duplicateOf": "projects/estabilización-de-taludes-torreón-cuencamé-durango-coconal/01-proyecto-estabilización-de-taludes-torreón-cuencamé-durango-coconal.jpg"
+    },
+    {
+      "localPath": "projects/estabilización-autopista-durango-mazatlán-capu/01-proyecto-estabilización-autopista-durango-mazatlán-capu.jpg",
+      "folder": "projects/estabilización-autopista-durango-mazatlán-capu",
+      "label": "proyecto-estabilización-autopista-durango-mazatlán-capu",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/Las%20Varas%20Puerto%20Vallarta%203-b3d714a.jpg",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/Las%20Varas%20Puerto%20Vallarta%203-b3d714a.jpg",
+      "sourcePages": [
+        "https://felfer.com.mx/f/estabilizaci%C3%B3n--autopista-durango---mazatl%C3%A1n---capu"
+      ],
+      "contexts": [
+        "embedded-css projects/estabilización-autopista-durango-mazatlán-capu",
+        "projects/estabilización-autopista-durango-mazatlán-capu"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/blob-c5e0bdf.png",
+      "contentType": "image/jpeg",
+      "bytes": 1059923,
+      "sha256": "8915851254aea2ccdc1d9c879d440796761ac2f854c9d9b11d00ca96d9bb9fd7"
+    },
+    {
+      "localPath": "home/obras/03-obra-destacada-estabilización-autopista-durango-mazatlán-capu.jpg",
+      "folder": "home/obras",
+      "label": "obra-destacada-estabilización-autopista-durango-mazatlán-capu",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/Las%20Varas%20Puerto%20Vallarta%203-b3d714a.jpg",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/Las%20Varas%20Puerto%20Vallarta%203-b3d714a.jpg",
+      "sourcePages": [
+        "https://felfer.com.mx/f/estabilizaci%C3%B3n--autopista-durango---mazatl%C3%A1n---capu"
+      ],
+      "contexts": [
+        "embedded-css projects/estabilización-autopista-durango-mazatlán-capu home-obras-alias",
+        "projects/estabilización-autopista-durango-mazatlán-capu home-obras-alias"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/blob-c5e0bdf.png",
+      "contentType": "image/jpeg",
+      "bytes": 1059923,
+      "sha256": "8915851254aea2ccdc1d9c879d440796761ac2f854c9d9b11d00ca96d9bb9fd7",
+      "duplicateOf": "projects/estabilización-autopista-durango-mazatlán-capu/01-proyecto-estabilización-autopista-durango-mazatlán-capu.jpg"
+    },
+    {
+      "localPath": "projects/proyecto-cmro-nayarit/01-proyecto-proyecto-cmro-nayarit.jpg",
+      "folder": "projects/proyecto-cmro-nayarit",
+      "label": "proyecto-proyecto-cmro-nayarit",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/WhatsApp%20Image%202025-09-29%20at%2012.25.54%20PM.jpeg",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/WhatsApp%20Image%202025-09-29%20at%2012.25.54%20PM.jpeg",
+      "sourcePages": [
+        "https://felfer.com.mx/f/proyecto-cmro-nayarit"
+      ],
+      "contexts": [
+        "embedded-css projects/proyecto-cmro-nayarit",
+        "projects/proyecto-cmro-nayarit"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/whatsapp image 2025-09-29 at 12.25.54 pm.jpeg",
+      "contentType": "image/jpeg",
+      "bytes": 294168,
+      "sha256": "27076c3ec7c5d471f2da0521318867c0a10bb4ea05372dcfb5c6c6d88ade129a"
+    },
+    {
+      "localPath": "home/obras/04-obra-destacada-proyecto-cmro-nayarit.jpg",
+      "folder": "home/obras",
+      "label": "obra-destacada-proyecto-cmro-nayarit",
+      "url": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/WhatsApp%20Image%202025-09-29%20at%2012.25.54%20PM.jpeg",
+      "finalUrl": "https://img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/WhatsApp%20Image%202025-09-29%20at%2012.25.54%20PM.jpeg",
+      "sourcePages": [
+        "https://felfer.com.mx/f/proyecto-cmro-nayarit"
+      ],
+      "contexts": [
+        "embedded-css projects/proyecto-cmro-nayarit home-obras-alias",
+        "projects/proyecto-cmro-nayarit home-obras-alias"
+      ],
+      "assetKey": "img1.wsimg.com/isteam/ip/83aee1e2-c04b-4439-a48d-47265b68c367/whatsapp image 2025-09-29 at 12.25.54 pm.jpeg",
+      "contentType": "image/jpeg",
+      "bytes": 294168,
+      "sha256": "27076c3ec7c5d471f2da0521318867c0a10bb4ea05372dcfb5c6c6d88ade129a",
+      "duplicateOf": "projects/proyecto-cmro-nayarit/01-proyecto-proyecto-cmro-nayarit.jpg"
+    }
+  ],
+  "failures": []
+}

@@ -17,9 +17,9 @@ export function ClientLogos() {
                 <Image
                   src={imageUrl(client.image)}
                   alt={client.alt}
-                  width={180}
-                  height={72}
-                  sizes="(max-width: 640px) 140px, 180px"
+                  width={220}
+                  height={88}
+                  sizes="(max-width: 640px) 160px, 220px"
                 />
               </div>
             ))}

@@ -1,10 +1,11 @@
 export const site = {
   name: "Constructora FELFER",
   url: "https://felfer.com.mx",
-  phone: "+52 771 000 0000",
-  whatsapp: "https://wa.me/527710000000",
+  phone: "+52 771 688 1294",
+  phoneHref: "+527716881294",
+  whatsapp: "https://wa.me/527716881294",
   email: "contacto@felfer.com.mx",
-  location: "Pachuca de Soto, Hidalgo",
+  location: "Pachuca de Soto, Estado de Hidalgo, México",
   imageBase: "/images/felfer",
 };
 
@@ -334,76 +335,274 @@ export const featuredServices = services.filter((service) => service.featured);
 
 export const projects = [
   {
-    name: "Autopista Mitla - Oaxaca",
+    name: "Drenaje San Felipe Orizatlán",
+    service: "Obras de drenaje",
+    location: "San Felipe Orizatlán, Hidalgo",
+    image: "services/obras-de-drenaje/hero-obras-drenaje.jpg",
+    alt: "Obra de drenaje y saneamiento en San Felipe Orizatlan",
+    date: "Junio 2015 - Abril 2016",
+    summary:
+      "Construcción del sistema de alcantarillado sanitario y saneamiento para la localidad de Texcatla.",
+  },
+  {
+    name: "Autopista Mitla-Oaxaca",
     service: "Estabilización de taludes",
     location: "Oaxaca",
     image: "projects/autopista-mitla-oaxaca.jpg",
     alt: "Proyecto carretero Mitla Oaxaca con trabajos de taludes",
+    date: "Diciembre 2022 - Agosto 2025",
     summary:
       "Estabilización de taludes y obras de drenaje en tramos críticos para garantizar la seguridad vial en zona montañosa.",
   },
   {
-    name: "Corredor Costero Nayarit",
-    service: "Carreteras",
-    location: "Nayarit",
-    image: "projects/corredor-costero-nayarit.jpg",
-    alt: "Proyecto de infraestructura en corredor costero Nayarit",
-    summary:
-      "Construcción de puentes, pasos a desnivel y obra vial estratégica para fortalecer la conectividad turística y regional.",
-  },
-  {
-    name: "Autopista Durango - Mazatlán",
+    name: "Tren Maya Campeche",
     service: "Estabilización de taludes",
-    location: "Sinaloa / Durango",
-    image: "projects/autopista-durango-mazatlan.jpg",
-    alt: "Proyecto carretero Durango Mazatlan con trabajos de estabilizacion",
+    location: "Campeche",
+    image: "home/proof-taludes-carretera.jpeg",
+    alt: "Trabajos de estabilizacion de taludes en infraestructura carretera",
+    date: "Septiembre 2023 - Enero 2025",
     summary:
-      "Aplicación de concreto lanzado y anclajes profundos en cortes geológicos complejos de la Sierra Madre Occidental.",
+      "Estabilización de taludes en la construcción de plataforma y vía del Tren Maya, tramo Chiná-Campo de Tiro.",
   },
   {
-    name: "Autopista Atizapán - Atlacomulco",
-    service: "Terracerías",
+    name: "Hospital General de Tulancingo",
+    service: "Edificación",
+    location: "Tulancingo, Hidalgo",
+    image: "services/edificacion/hero-edificacion.jpg",
+    alt: "Obra de edificacion institucional y hospitalaria",
+    date: "Febrero - Octubre 2015",
+    summary:
+      "Obra civil y acabados para la construcción del Hospital General de Tulancingo.",
+  },
+  {
+    name: "Autopista Atizapán-Atlacomulco",
+    service: "Estabilización de taludes",
     location: "Estado de México",
     image: "projects/autopista-atizapan-atlacomulco.jpg",
-    alt: "Proyecto carretero Atizapan Atlacomulco",
+    alt: "Proteccion y estabilizacion de taludes en la autopista Atizapan Atlacomulco",
+    date: "Agosto 2024 - Noviembre 2025",
     summary:
-      "Movimiento de tierras a gran escala y conformación de terraplenes para nueva ruta troncal.",
+      "Protección y estabilización de taludes para la autopista Atizapán-Atlacomulco.",
   },
   {
-    name: "Urbanización de desarrollo habitacional",
+    name: "Las Varas-Puerto Vallarta",
+    service: "Estabilización de taludes",
+    location: "Nayarit / Jalisco",
+    image: "projects/corredor-costero-nayarit.jpg",
+    alt: "Estabilizacion de taludes en corredor carretero Las Varas Puerto Vallarta",
+    date: "Julio 2021 - Abril 2025",
+    summary:
+      "Estabilización de taludes de altas especificaciones en la autopista Las Varas-Puerto Vallarta.",
+  },
+  {
+    name: "Conservación de caminos Hidalgo",
+    service: "Carreteras",
+    location: "Hidalgo",
+    image: "services/carreteras-conservacion-vial/hero-carreteras-conservacion-vial.jpg",
+    alt: "Conservacion vial en caminos del estado de Hidalgo",
+    date: "Junio - Agosto 2020",
+    summary:
+      "Conservación de caminos en Ixmiquilpan, Santiago de Anaya y San Agustín Tlaxiaca.",
+  },
+  {
+    name: "Mantenimiento Durango-Mazatlán",
+    service: "Carreteras",
+    location: "Autopista Durango-Mazatlán",
+    image: "projects/autopista-durango-mazatlan.jpg",
+    alt: "Mantenimiento vial en la autopista Durango Mazatlan",
+    date: "Febrero 2018 - Enero 2019",
+    summary:
+      "Mantenimiento menor de la autopista federal de cuota Durango-Mazatlán.",
+  },
+  {
+    name: "Carreteras alimentadoras Puebla",
+    service: "Carreteras",
+    location: "Puebla",
+    image: "services/carreteras-conservacion-vial/detail-pavimentacion.jpeg",
+    alt: "Reconstruccion de carreteras alimentadoras en Puebla",
+    date: "Febrero - Noviembre 2014",
+    summary:
+      "Reconstrucción de tramos alimentadores en Tlaxco, Tlacuilotepec y Naupan.",
+  },
+  {
+    name: "Rehabilitación Pachuca-Tampico",
+    service: "Carreteras",
+    location: "San Agustín Metzquititlán, Hidalgo",
+    image: "services/carreteras-conservacion-vial/detail-frente-carretero.jpeg",
+    alt: "Rehabilitacion de pavimento en carretera Pachuca Tampico",
+    date: "Abril - Septiembre 2012",
+    summary:
+      "Atención de emergencias mediante rehabilitación de pavimento en la carretera Pachuca-Tampico.",
+  },
+  {
+    name: "Pavimento Av. Carlos Lazo",
+    service: "Urbanización",
+    location: "Tepeapulco, Hidalgo",
+    image: "services/urbanizacion/hero-urbanizacion.jpeg",
+    alt: "Rehabilitacion de pavimento asfaltico en Ciudad Sahagun",
+    date: "Mayo - Agosto 2019",
+    summary:
+      "Rehabilitación de pavimento asfáltico del tramo Av. Carlos Lazo-Fernando de Alva.",
+  },
+  {
+    name: "Semaforización Ciudad Sahagún",
+    service: "Urbanización",
+    location: "Tepeapulco, Hidalgo",
+    image: "services/urbanizacion/hero-urbanizacion.jpeg",
+    alt: "Semaforizacion y señalizacion urbana en Ciudad Sahagun",
+    date: "Julio - Agosto 2019",
+    summary:
+      "Semaforización y señalización de cuatro cruceros en Ciudad Sahagún.",
+  },
+  {
+    name: "Redes Ciudad del Conocimiento",
     service: "Urbanización",
     location: "Hidalgo",
     image: "services/urbanizacion/hero-urbanizacion.jpeg",
-    alt: "Obra de urbanizacion para desarrollo habitacional",
+    alt: "Redes subterraneas de media tension para urbanizacion",
+    date: "Octubre 2014 - Abril 2015",
     summary:
-      "Ejecución de vialidades, guarniciones, banquetas, redes hidráulicas y preparación integral del terreno para desarrollo urbano.",
+      "Redes de media tensión subterráneas en la Ciudad del Conocimiento y la Cultura.",
   },
   {
-    name: "Obras de drenaje pluvial en infraestructura vial",
-    service: "Obras de drenaje",
-    location: "México",
-    image: "services/obras-de-drenaje/hero-obras-drenaje.jpg",
-    alt: "Obras de drenaje pluvial para infraestructura vial",
-    summary:
-      "Construcción de sistemas de captación, conducción y desalojo de agua para proteger vialidades y zonas de operación.",
-  },
-  {
-    name: "Estructuras para obra civil",
-    service: "Estructuras",
-    location: "México",
-    image: "services/estructuras/hero-estructuras-contencion.jpeg",
-    alt: "Estructuras de concreto y acero para obra civil",
-    summary:
-      "Ejecución de elementos estructurales de concreto y acero para proyectos de infraestructura, edificación y obras complementarias.",
-  },
-  {
-    name: "Edificación institucional y comercial",
+    name: "Proyecto Melchor Ocampo 96",
     service: "Edificación",
-    location: "México",
+    location: "Ciudad de México",
     image: "services/edificacion/hero-edificacion.jpg",
-    alt: "Edificacion institucional y comercial",
+    alt: "Obra civil de edificio en Melchor Ocampo 96",
+    date: "Junio 2021 - Mayo 2022",
     summary:
-      "Construcción, ampliación y adecuación de espacios funcionales para proyectos comerciales, institucionales y de infraestructura pública.",
+      "Obra civil de planta baja a nivel +15 en el proyecto Melchor Ocampo 96.",
+  },
+  {
+    name: "Hotel turístico Ixmiquilpan",
+    service: "Edificación",
+    location: "Ixmiquilpan, Hidalgo",
+    image: "services/edificacion/hero-edificacion.jpg",
+    alt: "Construccion de hotel turistico en Ixmiquilpan",
+    date: "Junio 2018 - Diciembre 2019",
+    summary:
+      "Construcción de hotel turístico de cuatro estrellas en Ixmiquilpan.",
+  },
+  {
+    name: "Banco de sangre HGZMF No. 1",
+    service: "Edificación",
+    location: "Pachuca, Hidalgo",
+    image: "services/edificacion/hero-edificacion.jpg",
+    alt: "Construccion de sala de espera para banco de sangre en Pachuca",
+    date: "Mayo - Julio 2014",
+    summary:
+      "Construcción de sala de espera del banco de sangre en el HGZMF No. 1.",
+  },
+  {
+    name: "Subdrenaje San Luis-Rioverde",
+    service: "Obras de drenaje",
+    location: "San Luis Potosí-Rioverde",
+    image: "services/obras-de-drenaje/hero-obras-drenaje.jpg",
+    alt: "Construccion de subdrenaje y pozos de visita en carretera",
+    date: "Julio 2019 - Febrero 2020",
+    summary:
+      "Construcción de subdrenaje, pozos de visita y renivelación de cunetas.",
+  },
+  {
+    name: "Drenaje Coatzacoalcos",
+    service: "Obras de drenaje",
+    location: "Coatzacoalcos, Veracruz",
+    image: "services/obras-de-drenaje/hero-obras-drenaje.jpg",
+    alt: "Obras de drenaje en Coatzacoalcos Veracruz",
+    date: "Septiembre 2018 - Abril 2019",
+    summary:
+      "Obras de drenaje en segmentos 01 y 02 del km 17 al 21.",
+  },
+  {
+    name: "Canal 4 de Abril",
+    service: "Obras de drenaje",
+    location: "Baja California / Sonora",
+    image: "services/obras-de-drenaje/hero-obras-drenaje.jpg",
+    alt: "Construccion de canal en distrito de riego Rio Colorado",
+    date: "Abril 2016",
+    summary:
+      "Construcción del CLD 31+478 del Canal 4 de Abril en el Distrito de Riego 014.",
+  },
+  {
+    name: "Terraplén Pueblo Nuevo",
+    service: "Terracerías",
+    location: "Durango",
+    image: "services/terracerias/hero-terracerias.jpg",
+    alt: "Reforzamiento de terraplen en autopista Durango Mazatlan",
+    date: "Febrero - Mayo 2018",
+    summary:
+      "Trabajos de emergencia para estabilización y reforzamiento del terraplén km 133+350.",
+  },
+  {
+    name: "Terracerías Apulco-San Pedro",
+    service: "Terracerías",
+    location: "Metztitlán / Atotonilco el Grande, Hidalgo",
+    image: "services/terracerias/hero-terracerias.jpg",
+    alt: "Construccion de terracerias Apulco San Pedro en Hidalgo",
+    date: "2016",
+    summary:
+      "Modernización mediante construcción de terracerías del km 29+000 al km 33+000.",
+  },
+  {
+    name: "Circuito Exterior Mexiquense",
+    service: "Terracerías",
+    location: "Estado de México",
+    image: "services/terracerias/hero-terracerias.jpg",
+    alt: "Terracerias en Circuito Exterior Mexiquense",
+    date: "Noviembre 2009 - Agosto 2011",
+    summary:
+      "Construcción de terracerías en Circuito Exterior Mexiquense Fase II, Tramo 2B.",
+  },
+  {
+    name: "Terraplén Durango-Mazatlán",
+    service: "Terracerías",
+    location: "Autopista Durango-Mazatlán",
+    image: "projects/autopista-durango-mazatlan.jpg",
+    alt: "Reforzamiento de terraplen en autopista Durango Mazatlan",
+    date: "Noviembre 2014 - Febrero 2016",
+    summary:
+      "Reforzamiento de terraplén con sección en balcón entre los km 154+000 y 155+000.",
+  },
+  {
+    name: "Retención de caídos C.E. 413",
+    service: "Estructuras",
+    location: "Corregidora, Querétaro",
+    image: "services/estructuras/hero-estructuras-contencion.jpeg",
+    alt: "Estructura para retencion de caidos en carretera estatal 413",
+    date: "Diciembre 2023 - Mayo 2024",
+    summary:
+      "Construcción de estructura para retención de caídos en la carretera estatal 413.",
+  },
+  {
+    name: "Entronque Atotonilco II",
+    service: "Estructuras",
+    location: "Atotonilco, Hidalgo",
+    image: "services/estructuras/hero-estructuras-contencion.jpeg",
+    alt: "Construccion de entronque a desnivel Atotonilco II",
+    date: "Febrero - Diciembre 2016",
+    summary:
+      "Construcción del entronque a desnivel Atotonilco II en la carretera Pachuca-Huejutla.",
+  },
+  {
+    name: "Puente La Palma",
+    service: "Estructuras",
+    location: "Culiacán, Sinaloa",
+    image: "services/estructuras/hero-estructuras-contencion.jpeg",
+    alt: "Construccion del puente La Palma en Culiacan Sinaloa",
+    date: "Fecha no especificada",
+    summary:
+      "Construcción del puente La Palma con montaje de trabes y cimentación de concreto.",
+  },
+  {
+    name: "Paso inferior Libramiento 57-D",
+    service: "Estructuras",
+    location: "Querétaro",
+    image: "services/estructuras/hero-estructuras-contencion.jpeg",
+    alt: "Proyecto de paso inferior vehicular en carretera federal 57D",
+    date: "Junio 2025",
+    summary:
+      "Estudio y proyecto para paso inferior vehicular en el Libramiento Nororiente.",
   },
 ];
 
