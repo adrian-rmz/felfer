@@ -62,7 +62,8 @@ export const services: Service[] = [
       "malla triple torsión",
       "drenes subhorizontales",
     ],
-    image: "services/estabilizacion-de-taludes/hero-estabilizacion-taludes.jpeg",
+    image:
+      "services/estabilizacion-de-taludes/hero-estabilizacion-taludes.jpeg",
     alt: "Trabajos de estabilizacion de taludes en infraestructura carretera",
     includes: [
       "Saneamiento de taludes y retiro de material inestable",
@@ -127,8 +128,14 @@ export const services: Service[] = [
       "Construcción de carreteras, conservación vial, pavimentación, terracerías, drenaje, señalamiento y obras complementarias.",
     intro:
       "FELFER desarrolla construcción de carreteras y conservación vial para infraestructura pública y privada en México. Integramos terracerías, pavimentación asfáltica, pavimentación con concreto hidráulico, obras de drenaje, conservación, rehabilitación y control operativo para mejorar seguridad, durabilidad y continuidad de las vías.",
-    keywords: ["construcción de carreteras", "conservación vial", "pavimentación asfáltica", "terracerías"],
-    image: "services/carreteras-conservacion-vial/hero-carreteras-conservacion-vial.jpg",
+    keywords: [
+      "construcción de carreteras",
+      "conservación vial",
+      "pavimentación asfáltica",
+      "terracerías",
+    ],
+    image:
+      "services/carreteras-conservacion-vial/hero-carreteras-conservacion-vial.jpg",
     alt: "Frente de construccion y conservacion vial en carretera",
     includes: [
       "Terracerías, cortes, terraplenes y compactación",
@@ -137,7 +144,13 @@ export const services: Service[] = [
       "Conservación y rehabilitación vial",
       "Señalamiento y obras complementarias",
     ],
-    applies: ["Autopistas", "Carreteras estatales", "Vialidades urbanas", "Accesos industriales", "Infraestructura pública"],
+    applies: [
+      "Autopistas",
+      "Carreteras estatales",
+      "Vialidades urbanas",
+      "Accesos industriales",
+      "Infraestructura pública",
+    ],
     methods: [
       "Revisión del alcance vial",
       "Planeación de frentes de obra",
@@ -176,12 +189,32 @@ export const services: Service[] = [
       "Urbanización para desarrollos habitacionales, comerciales e industriales con vialidades, redes, plataformas y obras complementarias.",
     intro:
       "Ejecutamos urbanización para proyectos que requieren habilitación de terrenos, vialidades internas, redes de drenaje, preparación de plataformas y coordinación de obra civil. Nuestro enfoque integra planeación, terracerías, pavimentos y trabajos complementarios para entregar frentes listos para operación o edificación.",
-    keywords: ["urbanización", "obra civil", "pavimentación con concreto hidráulico"],
+    keywords: [
+      "urbanización",
+      "obra civil",
+      "pavimentación con concreto hidráulico",
+    ],
     image: "services/urbanizacion/hero-urbanizacion.jpeg",
     alt: "Obra de urbanizacion con pavimento de concreto hidraulico",
-    includes: ["Vialidades internas", "Plataformas", "Drenaje pluvial y sanitario", "Pavimentos", "Obras complementarias"],
-    applies: ["Fraccionamientos", "Parques industriales", "Desarrollos comerciales", "Equipamiento urbano"],
-    methods: ["Revisión de proyecto", "Trazo y preparación", "Ejecución de redes y pavimentos", "Entrega de frentes"],
+    includes: [
+      "Vialidades internas",
+      "Plataformas",
+      "Drenaje pluvial y sanitario",
+      "Pavimentos",
+      "Obras complementarias",
+    ],
+    applies: [
+      "Fraccionamientos",
+      "Parques industriales",
+      "Desarrollos comerciales",
+      "Equipamiento urbano",
+    ],
+    methods: [
+      "Revisión de proyecto",
+      "Trazo y preparación",
+      "Ejecución de redes y pavimentos",
+      "Entrega de frentes",
+    ],
     faq: [
       {
         question: "¿Qué incluye la urbanización?",
@@ -212,9 +245,25 @@ export const services: Service[] = [
     keywords: ["edificación", "estructuras de concreto", "cimentaciones"],
     image: "services/edificacion/hero-edificacion.jpg",
     alt: "Proyecto de edificacion y obra civil ejecutado por Constructora FELFER",
-    includes: ["Cimentaciones", "Estructuras", "Obra civil", "Coordinación de frentes", "Obras complementarias"],
-    applies: ["Edificios institucionales", "Naves y espacios industriales", "Comercio", "Infraestructura privada"],
-    methods: ["Planeación", "Ejecución estructural", "Control de avance", "Cierre de obra"],
+    includes: [
+      "Cimentaciones",
+      "Estructuras",
+      "Obra civil",
+      "Coordinación de frentes",
+      "Obras complementarias",
+    ],
+    applies: [
+      "Edificios institucionales",
+      "Naves y espacios industriales",
+      "Comercio",
+      "Infraestructura privada",
+    ],
+    methods: [
+      "Planeación",
+      "Ejecución estructural",
+      "Control de avance",
+      "Cierre de obra",
+    ],
     faq: [
       {
         question: "¿Qué tipo de edificación atiende FELFER?",
@@ -241,12 +290,34 @@ export const services: Service[] = [
       "Obras de drenaje pluvial y sanitario, alcantarillas, cunetas, canalizaciones y soluciones hidráulicas para infraestructura.",
     intro:
       "Las obras de drenaje son esenciales para proteger carreteras, plataformas, urbanizaciones y taludes. FELFER ejecuta soluciones pluviales y sanitarias, alcantarillas, cunetas, canalizaciones y trabajos complementarios para conducir agua, reducir erosión y mejorar la vida útil de la infraestructura.",
-    keywords: ["obras de drenaje", "alcantarillas", "cunetas", "drenaje pluvial"],
+    keywords: [
+      "obras de drenaje",
+      "alcantarillas",
+      "cunetas",
+      "drenaje pluvial",
+    ],
     image: "services/obras-de-drenaje/hero-obras-drenaje.jpg",
     alt: "Obras de drenaje para infraestructura vial",
-    includes: ["Alcantarillas", "Cunetas", "Canalizaciones", "Drenaje pluvial", "Obras complementarias"],
-    applies: ["Carreteras", "Urbanización", "Taludes", "Plataformas", "Infraestructura pública"],
-    methods: ["Revisión hidráulica", "Preparación", "Construcción", "Integración con vialidad o talud"],
+    includes: [
+      "Alcantarillas",
+      "Cunetas",
+      "Canalizaciones",
+      "Drenaje pluvial",
+      "Obras complementarias",
+    ],
+    applies: [
+      "Carreteras",
+      "Urbanización",
+      "Taludes",
+      "Plataformas",
+      "Infraestructura pública",
+    ],
+    methods: [
+      "Revisión hidráulica",
+      "Preparación",
+      "Construcción",
+      "Integración con vialidad o talud",
+    ],
     faq: [
       {
         question: "¿Por qué es importante el drenaje en taludes?",
@@ -273,12 +344,34 @@ export const services: Service[] = [
       "Terracerías, movimiento de tierras, cortes, terraplenes, compactación y preparación de plataformas para obra civil.",
     intro:
       "FELFER ejecuta terracerías y movimiento de tierras para preparar plataformas, vialidades y frentes de infraestructura. Los trabajos pueden incluir cortes, terraplenes, nivelación, compactación y coordinación con drenaje, pavimentos o estabilización según las condiciones del terreno.",
-    keywords: ["terracerías", "movimiento de tierras", "cortes", "terraplenes", "compactación"],
+    keywords: [
+      "terracerías",
+      "movimiento de tierras",
+      "cortes",
+      "terraplenes",
+      "compactación",
+    ],
     image: "services/terracerias/hero-terracerias.jpg",
     alt: "Terracerias y movimiento de tierras para habilitacion de obra",
-    includes: ["Cortes", "Terraplenes", "Nivelación", "Compactación", "Preparación de plataformas"],
-    applies: ["Carreteras", "Urbanización", "Edificación", "Plataformas industriales"],
-    methods: ["Trazo", "Movimiento de tierras", "Compactación", "Control y entrega"],
+    includes: [
+      "Cortes",
+      "Terraplenes",
+      "Nivelación",
+      "Compactación",
+      "Preparación de plataformas",
+    ],
+    applies: [
+      "Carreteras",
+      "Urbanización",
+      "Edificación",
+      "Plataformas industriales",
+    ],
+    methods: [
+      "Trazo",
+      "Movimiento de tierras",
+      "Compactación",
+      "Control y entrega",
+    ],
     faq: [
       {
         question: "¿Qué son las terracerías?",
@@ -305,12 +398,27 @@ export const services: Service[] = [
       "Estructuras de concreto, cimentaciones, contención y elementos estructurales para infraestructura y edificación.",
     intro:
       "FELFER ejecuta estructuras y elementos de contención para obra civil, infraestructura y edificación. El alcance puede incluir cimentaciones, estructuras de concreto, muros de contención, elementos complementarios y coordinación con terracerías, drenaje o urbanización.",
-    keywords: ["estructuras", "estructuras de concreto", "cimentaciones", "muros de contención"],
+    keywords: [
+      "estructuras",
+      "estructuras de concreto",
+      "cimentaciones",
+      "muros de contención",
+    ],
     image: "services/estructuras/hero-estructuras-contencion.jpeg",
     alt: "Estructuras y contencion para obra civil e infraestructura",
-    includes: ["Cimentaciones", "Estructuras de concreto", "Muros de contención", "Elementos complementarios"],
+    includes: [
+      "Cimentaciones",
+      "Estructuras de concreto",
+      "Muros de contención",
+      "Elementos complementarios",
+    ],
     applies: ["Infraestructura", "Edificación", "Taludes", "Urbanización"],
-    methods: ["Revisión de alcance", "Preparación", "Ejecución estructural", "Cierre técnico"],
+    methods: [
+      "Revisión de alcance",
+      "Preparación",
+      "Ejecución estructural",
+      "Cierre técnico",
+    ],
     faq: [
       {
         question: "¿Qué estructuras atiende FELFER?",
@@ -333,44 +441,72 @@ export const services: Service[] = [
 
 export const featuredServices = services.filter((service) => service.featured);
 
-export const projects = [
+export type Project = {
+  name: string;
+  service: string;
+  location: string;
+  image: string;
+  alt: string;
+  summary: string;
+  date?: string;
+  slug?: string;
+  featured?: boolean;
+  detailEnabled?: boolean;
+};
+
+export const projects: Project[] = [
   {
+    slug: "drenaje-san-felipe-orizatlan",
     name: "Drenaje San Felipe Orizatlán",
     service: "Obras de drenaje",
     location: "San Felipe Orizatlán, Hidalgo",
-    image: "services/obras-de-drenaje/hero-obras-drenaje.jpg",
+    image: "projects/drenaje-san-felipe-orizatlan/gallery/rs=w_1160,h_800.webp",
     alt: "Obra de drenaje y saneamiento en San Felipe Orizatlan",
     date: "Junio 2015 - Abril 2016",
+    featured: true,
+    detailEnabled: true,
     summary:
       "Construcción del sistema de alcantarillado sanitario y saneamiento para la localidad de Texcatla.",
   },
   {
+    slug: "autopista-mitla-oaxaca",
     name: "Autopista Mitla-Oaxaca",
     service: "Estabilización de taludes",
     location: "Oaxaca",
-    image: "projects/autopista-mitla-oaxaca.jpg",
+    image:
+      "projects/autopista-mitla-oaxaca/gallery/PHOTO-2026-07-14-10-56-07 2.jpg",
     alt: "Proyecto carretero Mitla Oaxaca con trabajos de taludes",
     date: "Diciembre 2022 - Agosto 2025",
+    featured: true,
+    detailEnabled: true,
     summary:
       "Estabilización de taludes y obras de drenaje en tramos críticos para garantizar la seguridad vial en zona montañosa.",
   },
   {
+    slug: "tren-maya-campeche",
     name: "Tren Maya Campeche",
     service: "Estabilización de taludes",
     location: "Campeche",
-    image: "home/proof-taludes-carretera.jpeg",
+    image:
+      "projects/tren-maya-campeche/gallery/PHOTO-2026-07-14-10-55-36 3 copy.jpg",
     alt: "Trabajos de estabilizacion de taludes en infraestructura carretera",
     date: "Septiembre 2023 - Enero 2025",
+    featured: true,
+    detailEnabled: true,
     summary:
       "Estabilización de taludes en la construcción de plataforma y vía del Tren Maya, tramo Chiná-Campo de Tiro.",
   },
   {
+    slug: "hospital-general-de-tulancingo",
     name: "Hospital General de Tulancingo",
     service: "Edificación",
     location: "Tulancingo, Hidalgo",
-    image: "services/edificacion/hero-edificacion.jpg",
+    image:
+      "projects/hospital-general-de-tulancingo/gallery/rs=w_1280,h_960.webp",
     alt: "Obra de edificacion institucional y hospitalaria",
     date: "Febrero - Octubre 2015",
+    featured: true,
+    detailEnabled: true,
     summary:
       "Obra civil y acabados para la construcción del Hospital General de Tulancingo.",
   },
@@ -398,7 +534,8 @@ export const projects = [
     name: "Conservación de caminos Hidalgo",
     service: "Carreteras",
     location: "Hidalgo",
-    image: "services/carreteras-conservacion-vial/hero-carreteras-conservacion-vial.jpg",
+    image:
+      "services/carreteras-conservacion-vial/hero-carreteras-conservacion-vial.jpg",
     alt: "Conservacion vial en caminos del estado de Hidalgo",
     date: "Junio - Agosto 2020",
     summary:
@@ -511,8 +648,7 @@ export const projects = [
     image: "services/obras-de-drenaje/hero-obras-drenaje.jpg",
     alt: "Obras de drenaje en Coatzacoalcos Veracruz",
     date: "Septiembre 2018 - Abril 2019",
-    summary:
-      "Obras de drenaje en segmentos 01 y 02 del km 17 al 21.",
+    summary: "Obras de drenaje en segmentos 01 y 02 del km 17 al 21.",
   },
   {
     name: "Canal 4 de Abril",
@@ -606,7 +742,12 @@ export const projects = [
   },
 ];
 
-export type Project = (typeof projects)[number];
+export const featuredProjects = projects.filter((project) => project.featured);
+
+export const projectDetailProjects = projects.filter(
+  (project): project is Project & { slug: string } =>
+    Boolean(project.detailEnabled && project.slug),
+);
 
 export function imageUrl(path: string) {
   return `${site.imageBase}/${path}`;
@@ -614,4 +755,8 @@ export function imageUrl(path: string) {
 
 export function serviceBySlug(slug: string) {
   return services.find((service) => service.slug === slug);
+}
+
+export function projectBySlug(slug: string) {
+  return projectDetailProjects.find((project) => project.slug === slug);
 }

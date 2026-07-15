@@ -1,19 +1,13 @@
+import Link from "next/link";
 import { ImageFrame } from "@/components/ImageFrame";
+import type { Project } from "@/data/site";
 
 type ProjectCardProps = {
-  project: {
-    name: string;
-    service: string;
-    location: string;
-    image: string;
-    alt: string;
-    summary: string;
-    date?: string;
-  };
+  project: Project;
 };
 
 export function ProjectCard({ project }: ProjectCardProps) {
-  return (
+  const card = (
     <article className="project-card">
       <ImageFrame src={project.image} alt={project.alt} />
       <div className="project-card-body">
@@ -26,5 +20,13 @@ export function ProjectCard({ project }: ProjectCardProps) {
         {project.date ? null : <p>{project.summary}</p>}
       </div>
     </article>
+  );
+
+  if (!project.detailEnabled || !project.slug) return card;
+
+  return (
+    <Link className="project-card-link" href={`/proyectos/${project.slug}`} aria-label={`Ver proyecto ${project.name}`}>
+      {card}
+    </Link>
   );
 }

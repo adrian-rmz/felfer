@@ -25,6 +25,10 @@ export const metadata: Metadata = {
   },
   description:
     "Constructora en Hidalgo para infraestructura, obra civil, estabilización de taludes, carreteras, urbanización y edificación en México.",
+  icons: {
+    icon: "/icon.png",
+    apple: "/apple-icon.png",
+  },
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {

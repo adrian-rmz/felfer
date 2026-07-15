@@ -4,24 +4,11 @@ import { SectionHeader } from "@/components/SectionHeader";
 import { ServiceGallery } from "@/components/ServiceGallery";
 import { serviceBySlug, services, site } from "@/data/site";
 import { JsonLd, metadata } from "@/lib/seo";
+import { serviceGalleryImages } from "@/lib/service-gallery";
 
 export function generateStaticParams() {
   return services.map((service) => ({ slug: service.slug }));
 }
-
-const serviceGallery: Record<string, string[]> = {
-  "estabilizacion-de-taludes": [
-    "services/estabilizacion-de-taludes/hero-estabilizacion-taludes.jpeg",
-    "services/estabilizacion-de-taludes/detail-malla-anclajes.jpeg",
-    "services/estabilizacion-de-taludes/detail-talud-carretero.jpeg",
-    "home/proof-taludes-carretera.jpeg",
-  ],
-  "carreteras-conservacion-vial": [
-    "services/carreteras-conservacion-vial/hero-carreteras-conservacion-vial.jpg",
-    "services/carreteras-conservacion-vial/detail-frente-carretero.jpeg",
-    "services/carreteras-conservacion-vial/detail-pavimentacion.jpeg",
-  ],
-};
 
 type ServiceRouteProps = {
   params: Promise<{ slug: string }>;
@@ -44,7 +31,7 @@ export default async function ServicePage({ params }: ServiceRouteProps) {
   const service = serviceBySlug(slug);
   if (!service) notFound();
 
-  const gallery = serviceGallery[service.slug] ?? [service.image, "home/proof-taludes-carretera.jpeg"];
+  const gallery = serviceGalleryImages(service.slug, service.image);
 
   return (
     <main className="page-shell">

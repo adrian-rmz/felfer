@@ -5,7 +5,7 @@ import { ClientLogos } from "@/components/ClientLogos";
 import { ProjectCard } from "@/components/ProjectCard";
 import { SectionHeader } from "@/components/SectionHeader";
 import { ServiceCard } from "@/components/ServiceCard";
-import { featuredServices, imageUrl, projects } from "@/data/site";
+import { featuredProjects, featuredServices, imageUrl } from "@/data/site";
 import { JsonLd, metadata } from "@/lib/seo";
 
 export const generateMetadata = () =>
@@ -17,8 +17,6 @@ export const generateMetadata = () =>
   });
 
 export default function HomePage() {
-  const featuredProjects = projects.slice(0, 4);
-
   return (
     <main className="stitch-home">
       <JsonLd
